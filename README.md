@@ -1,6 +1,8 @@
 # FloodIt Game
 Collaborators: Melody Yu and Ella Demarest
+
 Created for CS2510
+
 Link to game inspiration: https://unixpapa.com/floodit/
 
 ## Introduction
